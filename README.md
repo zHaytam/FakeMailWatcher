@@ -1,5 +1,5 @@
 # FakeMailWatcher
-A helper class that watchs a FakeMailGenerator email for new mails.
+A helper class that watchs a FakeMailGenerator email for new mails.<br />
 This library is made with .NET Standard 2.0.
 
 ## How to use
